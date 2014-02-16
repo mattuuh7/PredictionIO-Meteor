@@ -13,7 +13,7 @@ Quick Start
 
 ```
 	$ cd {root_directory}
-	$ mrt install predictionio
+	$ mrt add predictionio
 ```
 
 3. Now you can start using the `PredictionIO` namespaced Meteor Server API
