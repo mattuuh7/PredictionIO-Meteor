@@ -14,7 +14,6 @@ Quick Start
 ```
 	$ cd {root_directory}
 	$ mrt install predictionio
-
 ```
 
 3. Now you can start using the `PredictionIO` namespaced Meteor Server API
@@ -32,4 +31,5 @@ Unit Tests
 
 References
 ----------
-API Docs: http://docs.prediction.io/current/apis/index.html
+- PredictionIO Repository: https://github.com/PredictionIO/PredictionIO
+- API Docs: http://docs.prediction.io/current/apis/index.html
