@@ -1,0 +1,8 @@
+{
+  "name": "predicionio",
+  "description": "PredictionIO API library for Meteor Server-side",
+  "homepage": "https://github.com/mattuuh7/PredictionIO-Meteor",
+  "author": "Matthew (Yanhao) Chen",
+  "version": "0.1.0",
+  "git": "https://github.com/mattuuh7/PredictionIO-Meteor.git"
+}
