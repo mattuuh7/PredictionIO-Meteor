@@ -4,7 +4,7 @@ PredictionIO API library for Meteor Server-side
 
 Requirements
 ------------
-Meteor: https://www.meteor.com/
+Meteor (Release 0.7.0.1): https://www.meteor.com/
 
 Quick Start
 -----------
