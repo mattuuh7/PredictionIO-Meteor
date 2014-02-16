@@ -1,5 +1,5 @@
 {
-  "name": "predicionio",
+  "name": "predictionio",
   "description": "PredictionIO API library for Meteor Server-side",
   "homepage": "https://github.com/mattuuh7/PredictionIO-Meteor",
   "author": "Matthew Chen (https://github.com/mattuuh7)",
