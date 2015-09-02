@@ -175,7 +175,7 @@ PredictionIO.Client.prototype.getRecItemsTopN = function(params, cb){
 	var engineName = params.engine_name;
 	delete params.engine_name;
 
-	checkId(params, 'pio_iid');
+	checkId(params, 'pio_uid');
 	check(engineName, String);
 	check(params.pio_n, Number);
 
